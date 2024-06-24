@@ -20,7 +20,7 @@ module.exports = {
 ## Kullanım
    Botun `/sor` ve `!sor` olmak üzere iki tane komutu bulunmaktadır.
 
-## Destek
+## Destek :3
 
 Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, [benimle iletişime](https://discord.com/users/657241749579759616) geçebilirsiniz.
 
